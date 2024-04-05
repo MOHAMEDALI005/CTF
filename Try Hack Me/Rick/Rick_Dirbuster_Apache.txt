@@ -1,0 +1,54 @@
+DirBuster 1.0-RC1 - Report
+http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
+Report produced on Fri Mar 22 22:45:35 IST 2024
+--------------------------------
+
+http://10.10.254.187:80
+--------------------------------
+Directories found during testing:
+
+Dirs found with a 403 response:
+
+/icons/.htpasswd/
+/icons/.htaccess/
+/.htaccess/
+/.htpasswd/
+/icons/
+/server-status/
+/assets/.htaccess/
+/assets/.htpasswd/
+
+Dirs found with a 200 response:
+
+/
+/assets/
+
+
+--------------------------------
+Files found during testing:
+
+Files found with a 403 responce:
+
+/icons/.htaccess..php
+/icons/.htpasswd..php
+/icons/.htaccess..conf
+/icons/.htpasswd..conf
+/.htpasswd.php
+/.htaccess.php
+/.htpasswd.conf
+/.htaccess.conf
+/icons/.htpasswd.conf
+/icons/.htpasswd.php
+/icons/.htaccess.php
+/icons/.htaccess.conf
+/assets/.htaccess.php
+/assets/.htpasswd.php
+/assets/.htpasswd.conf
+/assets/.htaccess.conf
+
+Files found with a 200 responce:
+
+/assets/jquery.min.js
+
+
+--------------------------------

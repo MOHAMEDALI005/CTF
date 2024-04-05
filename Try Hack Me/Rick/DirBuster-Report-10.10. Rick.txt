@@ -1,0 +1,76 @@
+DirBuster 1.0-RC1 - Report
+http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
+Report produced on Fri Mar 22 22:55:33 IST 2024
+--------------------------------
+
+http://10.10.254.187:80
+--------------------------------
+Directories found during testing:
+
+Dirs found with a 200 response:
+
+/
+/assets/
+
+Dirs found with a 403 response:
+
+/.htaccess/
+/.htpasswd/
+/icons/
+/server-status/
+/icons/.htpasswd/
+/icons/.htaccess/
+/assets/.htaccess/
+/assets/.htpasswd/
+
+
+--------------------------------
+Files found during testing:
+
+Files found with a 403 responce:
+
+/.htaccess.pdf
+/.htpasswd.pdf
+/.htaccess.php
+/.htpasswd.php
+/.htaccess.conf
+/.htpasswd.html
+/.htpasswd.conf
+/.htaccess.html
+/.htaccess.jpeg
+/.htpasswd.jpeg
+/.htpasswd.png
+/.htaccess.png
+/icons/.htpasswd.html
+/icons/.htaccess.html
+/icons/.htpasswd.php
+/icons/.htpasswd.pdf
+/icons/.htaccess.pdf
+/icons/.htaccess.php
+/icons/.htaccess.conf
+/icons/.htpasswd.conf
+/icons/.htaccess.png
+/icons/.htpasswd.png
+/icons/.htpasswd.jpeg
+/icons/.htaccess.jpeg
+/assets/.htaccess.jpeg
+/assets/.htpasswd.jpeg
+/assets/.htaccess.png
+/assets/.htpasswd.png
+/assets/.htpasswd.html
+/assets/.htaccess.html
+/assets/.htpasswd.conf
+/assets/.htaccess.conf
+/assets/.htpasswd.pdf
+/assets/.htaccess.pdf
+/assets/.htaccess.php
+/assets/.htpasswd.php
+
+Files found with a 200 responce:
+
+/assets/bootstrap.min.css
+/assets/jquery.min.js
+/assets/bootstrap.min.js
+
+
+--------------------------------

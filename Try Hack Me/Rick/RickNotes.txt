@@ -1,0 +1,16 @@
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.6 (Ubuntu Linux; protocol 2.0)
+
+
+80/tcp open  http    Apache httpd 2.4.18
+|_http-server-header: Apache/2.4.18 (Ubuntu)
+|_http-title: Rick is sup4r cool
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+
+
+Dir Identified:
+
+<Machine ip>/login.php
+<Machine ip>/portal.php
+
+login id: R1ckRul3s
