@@ -1,0 +1,34 @@
+# Dirsearch started Wed Apr  3 21:46:44 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py --url https://bizness.htb/ -w /usr/share/dirbuster/wordlists/directory-list-2.3-medium.txt -o /home/demon/Documents/CTF/Buziness/directory.txt
+
+302     0B   https://bizness.htb/images    -> REDIRECTS TO: https://bizness.htb/images/
+302     0B   https://bizness.htb/content    -> REDIRECTS TO: https://bizness.htb/content/
+302     0B   https://bizness.htb/common    -> REDIRECTS TO: https://bizness.htb/common/
+302     0B   https://bizness.htb/catalog    -> REDIRECTS TO: https://bizness.htb/catalog/
+302     0B   https://bizness.htb/marketing    -> REDIRECTS TO: https://bizness.htb/marketing/
+302     0B   https://bizness.htb/ecommerce    -> REDIRECTS TO: https://bizness.htb/ecommerce/
+302     0B   https://bizness.htb/ap    -> REDIRECTS TO: https://bizness.htb/ap/
+302     0B   https://bizness.htb/ar    -> REDIRECTS TO: https://bizness.htb/ar/
+302     0B   https://bizness.htb/ebay    -> REDIRECTS TO: https://bizness.htb/ebay/
+404   757B   https://bizness.htb/select
+200    34KB  https://bizness.htb/control
+302     0B   https://bizness.htb/manufacturing    -> REDIRECTS TO: https://bizness.htb/manufacturing/
+302     0B   https://bizness.htb/error    -> REDIRECTS TO: https://bizness.htb/error/
+302     0B   https://bizness.htb/passport    -> REDIRECTS TO: https://bizness.htb/passport/
+302     0B   https://bizness.htb/example    -> REDIRECTS TO: https://bizness.htb/example/
+302     0B   https://bizness.htb/bi    -> REDIRECTS TO: https://bizness.htb/bi/
+302     0B   https://bizness.htb/accounting    -> REDIRECTS TO: https://bizness.htb/accounting/
+302     0B   https://bizness.htb/webtools    -> REDIRECTS TO: https://bizness.htb/webtools/
+302     0B   https://bizness.htb/tomahawk    -> REDIRECTS TO: https://bizness.htb/tomahawk/
+302     0B   https://bizness.htb/facility    -> REDIRECTS TO: https://bizness.htb/facility/
+400   841B   https://bizness.htb/http%3A%2F%2Fwww
+302     0B   https://bizness.htb/myportal    -> REDIRECTS TO: https://bizness.htb/myportal/
+302     0B   https://bizness.htb/sfa    -> REDIRECTS TO: https://bizness.htb/sfa/
+400   841B   https://bizness.htb/http%3A%2F%2Fyoutube
+400   841B   https://bizness.htb/http%3A%2F%2Fblogs
+400   841B   https://bizness.htb/http%3A%2F%2Fblog
+400   841B   https://bizness.htb/**http%3A%2F%2Fwww
+302     0B   https://bizness.htb/bluelight    -> REDIRECTS TO: https://bizness.htb/bluelight/
+400   795B   https://bizness.htb/External%5CX-News
+404   682B   https://bizness.htb/web-inf
+400   841B   https://bizness.htb/http%3A%2F%2Fcommunity
+400   841B   https://bizness.htb/http%3A%2F%2Fradar
